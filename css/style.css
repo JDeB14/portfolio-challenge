@@ -119,4 +119,7 @@ p {
     display: block;
     margin: 0 20px;
   }
+  .about-pics {
+    margin-bottom: 20px;
+  }
 }
